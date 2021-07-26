@@ -6,7 +6,7 @@ Repositório contendo o material da disciplina "Introdução ao aprendizado de m
 
 O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado através dos links abaixo.
 
-1. [Introdução](https://github.com/zz4fap/t319_aprendizado_de_maquina/blob/main/slides/T320_Introdu%C3%A7%C3%A3o(slides).pdf)
+1. [Introdução](https://github.com/zz4fap/t320_aprendizado_de_maquina/blob/main/slides/T320_Introdu%C3%A7%C3%A3o(slides).pdf)
 
 ## Laboratórios
 
