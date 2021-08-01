@@ -1,4 +1,4 @@
-# T320 - Introdução ao Aprendizado de Máquina (Parte II)
+# T320 - Introdução ao Aprendizado de Máquina II
 
 Repositório contendo o material da disciplina "Introdução ao aprendizado de máquina".
 
