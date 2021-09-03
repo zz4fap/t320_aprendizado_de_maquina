@@ -16,7 +16,7 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 5. [Classificação (Parte V)](https://github.com/zz4fap/t320_aprendizado_de_maquina/blob/main/slides/T320_Classifica%C3%A7%C3%A3o%20(Parte%20V)(slides).pdf)
 
-6. [Redes Neurais Artificiais (Parte I)](https://github.com/zz4fap/t320_aprendizado_de_maquina/blob/main/slides/.pdf)
+6. [Redes Neurais Artificiais (Parte I)](https://github.com/zz4fap/t320_aprendizado_de_maquina/blob/main/slides/T320_Redes_Neurais_Artificiais%20(Parte%20I)(slides).pdf)
 
 ## Laboratórios
 
@@ -55,6 +55,12 @@ Aqui vocês encontram os links para os laboratórios. Vocês podem baixar os not
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio5.ipynb)
 
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio5.ipynb)
+
+### Laboratório 6
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio6.ipynb)
+
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio6.ipynb)
 
 
 <img src="/figures/python_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
