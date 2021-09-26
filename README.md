@@ -58,6 +58,12 @@ Aqui vocês encontram os links para os laboratórios. Vocês podem baixar os not
 
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio5.ipynb)
 
+### Projeto #1
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=projeto%2Fprojeto_1_T320_2S2021.ipynb)
+
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/projeto/projeto_1_T320_2S2021.ipynb)
+
 ### Laboratório 6
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio6.ipynb)
