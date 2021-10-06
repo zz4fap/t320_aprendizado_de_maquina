@@ -20,6 +20,8 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 7. [Redes Neurais Artificiais (Parte II)](https://github.com/zz4fap/t320_aprendizado_de_maquina/blob/main/slides/T320_Redes_Neurais_Artificiais%20(Parte%20II)(slides).pdf)
 
+8. [Redes Neurais Artificiais (Parte III)](https://github.com/zz4fap/t320_aprendizado_de_maquina/blob/main/slides/T320_Redes_Neurais_Artificiais%20(Parte%20III)(slides).pdf)
+
 ## Laboratórios
 
 Aqui vocês encontram os links para os laboratórios. Vocês podem baixar os notebooks e resolve-los localmente ou usar os links abaixo para resolve-los na nuvem, ou seja, online.
@@ -75,6 +77,12 @@ Aqui vocês encontram os links para os laboratórios. Vocês podem baixar os not
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio7.ipynb)
 
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio7.ipynb)
+
+### Laboratório 8
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio8.ipynb)
+
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio8.ipynb)
 
 
 <img src="/figures/python_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
