@@ -22,6 +22,8 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 8. [Redes Neurais Artificiais (Parte III)](https://github.com/zz4fap/t320_aprendizado_de_maquina/blob/main/slides/T320_Redes_Neurais_Artificiais%20(Parte%20III)(slides).pdf)
 
+9. [Redes Neurais Artificiais (Parte IV)](https://github.com/zz4fap/t320_aprendizado_de_maquina/blob/main/slides/T320_Redes_Neurais_Artificiais%20(Parte%20IV)(slides).pdf)
+
 ## Laboratórios
 
 Aqui vocês encontram os links para os laboratórios. Vocês podem baixar os notebooks e resolve-los localmente ou usar os links abaixo para resolve-los na nuvem, ou seja, online.
