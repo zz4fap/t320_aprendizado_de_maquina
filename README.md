@@ -24,6 +24,8 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 9. [Redes Neurais Artificiais (Parte IV)](https://github.com/zz4fap/t320_aprendizado_de_maquina/blob/main/slides/T320_Redes_Neurais_Artificiais%20(Parte%20IV)(slides).pdf)
 
+10. [Introdução ao Tensorflow](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/notebooks/tensorflow/introdução_ao_tensorflow.ipynb)
+
 ## Laboratórios
 
 Aqui vocês encontram os links para os laboratórios. Vocês podem baixar os notebooks e resolvê-los localmente ou usar os links abaixo para resolve-los na nuvem, ou seja, online.
