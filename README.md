@@ -26,6 +26,8 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 10. [Introdução ao Tensorflow](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/notebooks/tensorflow/introdução_ao_tensorflow.ipynb)
 
+11. [Clustering](https://github.com/zz4fap/t320_aprendizado_de_maquina/blob/main/slides/T320_kMeans(slides).pdf)
+
 ## Laboratórios
 
 Aqui vocês encontram os links para os laboratórios. Vocês podem baixar os notebooks e resolvê-los localmente ou usar os links abaixo para resolve-los na nuvem, ou seja, online.
