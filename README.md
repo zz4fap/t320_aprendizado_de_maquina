@@ -38,69 +38,69 @@ Aqui vocês encontram os links para os laboratórios. Vocês podem baixar os not
 
 ### Laboratório 1
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio1.ipynb)
-
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio1.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio1.ipynb)
 
 ### Laboratório 2
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio2.ipynb)
-
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio2.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio2.ipynb)
 
 ### Laboratório 3
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio3.ipynb)
-
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio3.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio3.ipynb)
 
 ### Laboratório 4
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio4.ipynb)
-
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio4.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio4.ipynb)
 
 ### Laboratório 5
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio5.ipynb)
-
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio5.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio5.ipynb)
 
 ### Projeto #1
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=projeto%2Fprojeto_1_T320_1S2023.ipynb)
-
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/projeto/projeto_1_T320_1S2023.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=projeto%2Fprojeto_1_T320_1S2023.ipynb)
 
 ### Laboratório 6
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio6.ipynb)
-
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio6.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio6.ipynb)
 
 ### Laboratório 7
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio7.ipynb)
-
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio7.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio7.ipynb)
 
 ### Laboratório 8
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio8.ipynb)
-
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio8.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio8.ipynb)
 
 ### Laboratório 9
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio9.ipynb)
-
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/labs/Laboratorio9.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=labs%2FLaboratorio9.ipynb)
 
 ### Projeto #2
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=projeto%2Fprojeto_2_T320_1S2023.ipynb)
-
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/projeto/projeto_2_T320_1S2023.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zz4fap/t320_aprendizado_de_maquina/main?filepath=projeto%2Fprojeto_2_T320_1S2023.ipynb)
 
 
 <img src="/figures/python_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
