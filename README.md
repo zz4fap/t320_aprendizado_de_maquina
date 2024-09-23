@@ -58,7 +58,7 @@ Aqui vocês encontram os links para os laboratórios. Vocês podem baixar os not
 
 ### Projeto #1
 
-[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/projeto/projeto_1_T320_1S2024.ipynb)
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/projeto/projeto_1_T320_2S2024.ipynb)
 
 ### Laboratório 6
 
@@ -70,7 +70,7 @@ Aqui vocês encontram os links para os laboratórios. Vocês podem baixar os not
 
 ### Projeto #2
 
-[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/projeto/projeto_2_T320_1S2024.ipynb)
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/projeto/projeto_2_T320_2S2024.ipynb)
 
 
 <img src="/figures/python_logo.png" width="200" height="200">                                       <img src="/figures/inatel_logo.png">
