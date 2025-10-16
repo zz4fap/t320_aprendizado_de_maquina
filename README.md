@@ -58,7 +58,7 @@ Aqui vocês encontram os links para os laboratórios. Vocês podem baixar os not
 
 ### Projeto #1
 
-[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/projeto/projeto_1_T320_1S2025.ipynb)
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/zz4fap/t320_aprendizado_de_maquina/blob/main/projeto/projeto_1_T320_2S2025.ipynb)
 
 ### Laboratório 6
 
